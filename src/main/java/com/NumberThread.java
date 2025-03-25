@@ -1,5 +1,5 @@
-package main.java.com;
-
+package com;
+//коммит для проверки
 public class NumberThread {
 
     private static final int MAX_NUMBER = 20;
