@@ -14,7 +14,7 @@ public class NumberThread {
 
         Thread evenThread  = new Thread(()->{
 
-            for (int i = 2; i < MAX_NUMBER; i+=2) {
+            for (int i = 2; i <= MAX_NUMBER; i+=2) {
 
                 printNumber(i,true);
 
